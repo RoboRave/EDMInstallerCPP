@@ -1,0 +1,11 @@
+﻿  AssemblyInfo.cpp
+AssemblyInfo.cpp(38): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+  AssemblyInfo.cpp(38): note: Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  DownloadFiles.cpp
+  EDMI.cpp
+  Json.cpp
+  MainWindow.cpp
+  Program.cpp
+  Generating Code...
+  .NETFramework,Version=v4.6.AssemblyAttributes.cpp
+  EDMInstallerCPP.vcxproj -> C:\Users\Zach\Documents\GitHubVisualStudio\EDMInstallerCPP\\Win32\Debug\EDMInstallerCPP.exe
